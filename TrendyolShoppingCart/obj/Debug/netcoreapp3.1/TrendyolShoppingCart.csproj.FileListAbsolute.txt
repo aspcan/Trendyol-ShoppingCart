@@ -1,0 +1,8 @@
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\obj\Debug\netcoreapp3.1\TrendyolShoppingCart.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\obj\Debug\netcoreapp3.1\TrendyolShoppingCart.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\bin\Debug\netcoreapp3.1\TrendyolShoppingCart.deps.json
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\bin\Debug\netcoreapp3.1\TrendyolShoppingCart.dll
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\bin\Debug\netcoreapp3.1\TrendyolShoppingCart.pdb
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\obj\Debug\netcoreapp3.1\TrendyolShoppingCart.dll
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\obj\Debug\netcoreapp3.1\TrendyolShoppingCart.pdb
+C:\Users\yusuf\Desktop\Trendyol-shopping-case\TrendyolShoppingCart\TrendyolShoppingCart\obj\Debug\netcoreapp3.1\TrendyolShoppingCart.csprojAssemblyReference.cache

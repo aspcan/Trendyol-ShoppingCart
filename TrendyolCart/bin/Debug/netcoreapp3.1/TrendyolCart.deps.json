@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TrendyolCart/1.0.0": {
+        "dependencies": {
+          "TrendyolShoppingCart": "1.0.0"
+        },
+        "runtime": {
+          "TrendyolCart.dll": {}
+        }
+      },
+      "TrendyolShoppingCart/1.0.0": {
+        "runtime": {
+          "TrendyolShoppingCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrendyolCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TrendyolShoppingCart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
